@@ -4,6 +4,6 @@ hello git
 hello git
 hello git
 hello git
-hello git
-hello git
+hello git hot-fix test
+hello git 
 热修复了一个bug
